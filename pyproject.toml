@@ -30,3 +30,6 @@ universal-crawler = "crawler:main"
 [project.urls]
 "Homepage" = "https://github.com/grvmon/universal-seo-crawler"
 "Bug Tracker" = "https://github.com/grvmon/universal-seo-crawler/issues"
+
+[tool.setuptools]
+py-modules = ["crawler"]
