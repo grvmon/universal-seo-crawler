@@ -11,9 +11,21 @@ authors = [
 description = "Free, open-source technical SEO crawler built for 100k+ URLs. Crawls all assets on a flat ~120 MB RAM footprint and exports to a single CSV."
 readme = "README.md"
 requires-python = ">=3.9"
+license = "MIT"
+keywords = [
+  "seo",
+  "technical-seo",
+  "screaming-frog-alternative",
+  "crawler",
+  "spider",
+  "site-audit",
+  "website-crawler",
+  "broken-link-checker",
+  "internal-links",
+  "asyncio",
+]
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
     "Topic :: Internet :: WWW/HTTP :: Indexing/Search",
 ]

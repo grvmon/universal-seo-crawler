@@ -6,17 +6,9 @@
   "author": "grvmon",
   "homepage": "https://github.com/grvmon/universal-seo-crawler",
   "repository": "https://github.com/grvmon/universal-seo-crawler",
-  "license": "MIT",
-  "keywords": [
-    "seo",
-    "crawler",
-    "technical-seo",
-    "screaming-frog",
-    "site-audit",
-    "spider",
-    "broken-links"
-  ],
-  "skills": [
-    "skills/universal-crawler"
+  "suggestedPrompts": [
+    "Run a full SEO crawl on https://example.com and save to audit.csv",
+    "Audit 10,000 URLs with 20 workers and check for broken links and missing meta tags",
+    "Scan a website for missing image alt text, duplicate canonicals, and redirect chains"
   ]
 }
