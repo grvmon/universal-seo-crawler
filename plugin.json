@@ -1,0 +1,22 @@
+{
+  "name": "universal-seo-crawler",
+  "version": "1.0.0",
+  "displayName": "Universal SEO Crawler",
+  "description": "Free, open-source technical SEO crawler built for 100k+ URLs. Crawls all assets on a flat ~120 MB RAM footprint and exports to a single CSV.",
+  "author": "grvmon",
+  "homepage": "https://github.com/grvmon/universal-seo-crawler",
+  "repository": "https://github.com/grvmon/universal-seo-crawler",
+  "license": "MIT",
+  "keywords": [
+    "seo",
+    "crawler",
+    "technical-seo",
+    "screaming-frog",
+    "site-audit",
+    "spider",
+    "broken-links"
+  ],
+  "skills": [
+    "skills/universal-crawler"
+  ]
+}

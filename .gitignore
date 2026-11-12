@@ -1,0 +1,28 @@
+# Python / Virtualenv
+venv/
+env/
+ENV/
+*.venv
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Local Database Caches
+*.db
+*.db-wal
+*.db-shm
+crawl_cache_*.db*
+
+# Output Reports & Local Test CSVs
+sample_master_audit.csv
+sample_reports/
+*.csv
+
+# OS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
